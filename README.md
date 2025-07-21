@@ -63,4 +63,4 @@ Collaborative filtering in recommendation systems often leverages low-rank matri
 
 ## 5. Conclusion and Future Directions
 
-This report establishes a rigorous theoretical foundation for UltraGCN and its variants, highlighting how closed-form infinite-layer propagation and graph-constraint losses influence embedding quality. Future work includes tighter generalization guarantees and exploration of novel spectral filters.
+This report summarizes theoretical foundation for UltraGCN and its variants, highlighting how closed-form infinite-layer propagation and graph-constraint losses influence embedding quality. Future work includes tighter generalization guarantees and exploration of novel spectral filters.
