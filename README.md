@@ -46,11 +46,6 @@ Collaborative filtering in recommendation systems often leverages low-rank matri
 * **Modification**: replace \$\log\sigma(x)\$ with a linear penalty \$w,x\$.
 * **Analysis**: gradients become constant w\.r.t.\ \$x\$, impacting convergence and reducing regularization strength on hard negatives.
 
-### 3.3 Alternative Activation Functions
-
-* **Examples**: \$	anh(x)\$, softplus.
-* **Comparison**: examine Lipschitz constants and curvature to bound embedding distortions.
-
 ---
 
 ## 4. Theoretical Insights
